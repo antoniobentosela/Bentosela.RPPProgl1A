@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594041775 source:c:\users\sabrina\desktop\recparcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
